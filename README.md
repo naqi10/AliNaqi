@@ -50,3 +50,5 @@ Got an idea or project you’re working on? I'm always up for a good tech conver
 
 - **[LinkedIn](www.linkedin.com/in/ali-naqi-69688a244)**
 - **[GitHub](https://github.com/naqi10)**
+- **Freelance with me on [Upwork](https://www.upwork.com/freelancers/~0177ca8838224ab006)**  
+
