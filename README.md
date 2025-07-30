@@ -13,7 +13,7 @@ From creating chatbots that can understand PDFs to building database question-an
 
 ## What I Do
 
-- **AI & Machine Learning**: LLMs, RAG pipelines, LangChain, TensorFlow, PyTorch — building smarter applications using modern AI.
+- **AI & Machine Learning**: LLMs, RAG pipelines, LangChain, TensorFlow, PyTorch building smarter applications using modern AI.
 - **Backend Development**: APIs with FastAPI and Python that are fast, clean, and production-ready.
 - **Frontend Development**: Interactive, responsive web apps using React, Next.js, Redux, and REST APIs.
 - **Databases**: MongoDB, PostgreSQL, SQL.
@@ -22,11 +22,11 @@ From creating chatbots that can understand PDFs to building database question-an
 
 ## My Approach
 
-I believe great development is a mix of smart thinking and solid execution. I start by understanding what the project really needs — not just the tech, but the goal behind it.
+I believe great development is a mix of smart thinking and solid execution. I start by understanding what the project really needs not just the tech, but the goal behind it.
 
 Then I build clean, scalable solutions that are easy to use, maintain, and extend.
 
-My projects are live on GitHub — check them out if you're curious!
+My projects are live on GitHub check them out if you're curious!
 
 ---
 
